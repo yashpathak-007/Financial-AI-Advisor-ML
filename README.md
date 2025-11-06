@@ -115,3 +115,5 @@ Android Mobile App Version
 🌐 GitHub: https://github.com/yashpathak-007
 
 ---
+
+**[🚀 Live App Demo !](https://finsmartai.streamlit.app/)**
