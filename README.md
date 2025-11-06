@@ -54,34 +54,46 @@ Financial-AI-Advisor/
 │── requirements.txt
 │── README.md
 
+---
+
+## 🚀 Getting Started (Run Locally)
 
 
-## 🚀 Run the Project
+1.  Iss repository ko clone karein:
+    ```bash
+    git clone [https://github.com/aapka-username/Financial-AI-Advisor.git](https://github.com/aapka-username/Financial-AI-Advisor.git)
+    cd Financial-AI-Advisor
+    ```
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/Financial-AI-Advisor.git
-cd Financial-AI-Advisor
-2️⃣ Install Dependencies
-bash
-Copy code
-pip install -r requirements.txt
-3️⃣ (Optional) Retrain the Model
-bash
-Copy code
-jupyter notebook model_offline.ipynb
-4️⃣ Run the App
-bash
-Copy code
-streamlit run app.py
-Now visit in browser:
-👉 http://localhost:8501/
+2.  Install Dependencies
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-📸 Sample Output Screenshots
-Expense Prediction Screen	Budget Visualization Screen
-	
+3.  (Optional) Retrain the Model
+    ```bash
+    jupyter notebook model_offline.ipynb
+    ```
 
-🌟 Future Enhancements
+4.  Run the App
+    ```bash
+    streamlit run app.py
+    ```
+
+5.  Apne browser mein `localhost:8501` kholein aur app ko use karein!
+
+---
+
+## 📊 Sample Output Screenshots (Add Yours)
+Expense Prediction	Budget Visualization
+
+![WhatsApp Image 2025-11-06 at 16 10 53_19432adf](https://github.com/user-attachments/assets/7b916548-2d15-443a-a3a7-454443150fbc)
+![WhatsApp Image 2025-11-06 at 16 11 27_e5bef0ca](https://github.com/user-attachments/assets/e059706e-fd5b-45ed-9104-3488ce89e925)
+
+---
+
+## 🌟 Future Enhancements
+
 User Login + Personalized Dashboard
 
 Cloud-Based Data Storage
@@ -92,6 +104,14 @@ Multi-Language Support (Hindi / English)
 
 Android Mobile App Version
 
-👨‍💻 Author
-Yash Pathak
-MCA | Machine Learning Enthusiast
+---
+---
+
+## 🙋‍♂️ Author
+
+**Yash Pathak**  
+📫 pathak.y00007@gmail.com / www.linkedin.com/in/yash-pathak-b2a995278
+  
+🌐 GitHub: https://github.com/yashpathak-007
+
+---
